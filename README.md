@@ -1,5 +1,5 @@
 # ML-Course_Repository
-This repository contains the two final Jupyter Notebooks as well as the presentation to the Course "Machine Learning" at the University of St. Gallen. 
+This repository contains the two final Jupyter Notebooks for the Coding Assignment of the course "Machine Learning" at the University of St. Gallen. 
 
 The members of the team "Failing to Success" were:
 Olivier Zehnder (SVM)
